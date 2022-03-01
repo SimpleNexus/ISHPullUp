@@ -15,8 +15,7 @@ let package = Package(
     targets: [
         .target(
             name: "ISHPullUp",
-            path: "ISHPullUp",
-            publicHeadersPath: "."
+            path: "ISHPullUp"
         )
     ]
 )
